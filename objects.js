@@ -1,5 +1,3 @@
-var playlist = {
-  artistName: "songTittle"
-  }
+var playlist = {artistName: "songTittle"}
 
 delete playlist.artistName
