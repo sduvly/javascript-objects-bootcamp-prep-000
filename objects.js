@@ -1,4 +1,7 @@
-var playlist = {artist: "mpr"}
-
-playlist.artistName = "Pop"
-playlist.songTittle = "welcome"
+var playlist = {
+  artistName: "",
+  playlist: "",
+songTittle: ""
+}
+playlist.artistName = "pop"
+playlist.songTittle = "mpr"
